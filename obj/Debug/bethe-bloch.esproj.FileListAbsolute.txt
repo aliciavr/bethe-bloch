@@ -1,0 +1,2 @@
+C:\Users\alvaz\Desktop\BetheBloch\bethe-bloch\obj\Debug\bethe-bloch.esproj.SuggestedBindingRedirects.cache
+C:\Users\alvaz\Desktop\BetheBloch\bethe-bloch\obj\Debug\bethe-bloch.esproj.CoreCompileInputs.cache
